@@ -1,0 +1,7 @@
+C:\Noah\Projects\Mini\ClipboardViewer\ClipboardViewer.TestPlugins\ClipboardViewer.TestPlugins\obj\Debug\ResolveAssemblyReference.cache
+C:\Noah\Projects\Mini\ClipboardViewer\ClipboardViewer.TestPlugins\ClipboardViewer.TestPlugins\bin\Debug\ClipboardViewer.TestPlugins.dll
+C:\Noah\Projects\Mini\ClipboardViewer\ClipboardViewer.TestPlugins\ClipboardViewer.TestPlugins\bin\Debug\ClipboardViewer.TestPlugins.pdb
+C:\Noah\Projects\Mini\ClipboardViewer\ClipboardViewer.TestPlugins\ClipboardViewer.TestPlugins\bin\Debug\ClipboardViewer.exe
+C:\Noah\Projects\Mini\ClipboardViewer\ClipboardViewer.TestPlugins\ClipboardViewer.TestPlugins\bin\Debug\ClipboardViewer.pdb
+C:\Noah\Projects\Mini\ClipboardViewer\ClipboardViewer.TestPlugins\ClipboardViewer.TestPlugins\obj\Debug\ClipboardViewer.TestPlugins.dll
+C:\Noah\Projects\Mini\ClipboardViewer\ClipboardViewer.TestPlugins\ClipboardViewer.TestPlugins\obj\Debug\ClipboardViewer.TestPlugins.pdb
