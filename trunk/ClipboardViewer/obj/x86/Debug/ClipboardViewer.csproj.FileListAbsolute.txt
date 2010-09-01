@@ -1,0 +1,17 @@
+C:\Noah\Projects\Mini\ClipboardViewer\ClipboardViewer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Noah\Projects\Mini\ClipboardViewer\ClipboardViewer\obj\x86\Debug\ClipboardViewer.frmMain.resources
+C:\Noah\Projects\Mini\ClipboardViewer\ClipboardViewer\obj\x86\Debug\ClipboardViewer.Properties.Resources.resources
+C:\Noah\Projects\Mini\ClipboardViewer\ClipboardViewer\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Noah\Projects\Mini\ClipboardViewer\ClipboardViewer\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Noah\Projects\Mini\ClipboardViewer\ClipboardViewer\bin\Debug\ClipboardViewer.exe.config
+C:\Noah\Projects\Mini\ClipboardViewer\ClipboardViewer\bin\Debug\ClipboardViewer.exe
+C:\Noah\Projects\Mini\ClipboardViewer\ClipboardViewer\bin\Debug\ClipboardViewer.pdb
+C:\Noah\Projects\Mini\ClipboardViewer\ClipboardViewer\obj\x86\Debug\ClipboardViewer.exe
+C:\Noah\Projects\Mini\ClipboardViewer\ClipboardViewer\obj\x86\Debug\ClipboardViewer.pdb
+C:\Noah\Projects\Mini\ClipboardViewer\ClipboardViewer\obj\x86\Debug\ClipboardViewer.NoViewer.resources
+C:\Noah\Projects\Mini\ClipboardViewer\trunk\ClipboardViewer\bin\Debug\ClipboardViewer.exe.config
+C:\Noah\Projects\Mini\ClipboardViewer\trunk\ClipboardViewer\obj\x86\Debug\ClipboardViewer.exe
+C:\Noah\Projects\Mini\ClipboardViewer\trunk\ClipboardViewer\obj\x86\Debug\ClipboardViewer.pdb
+C:\Noah\Projects\Mini\ClipboardViewer\clipboardviewer\trunk\ClipboardViewer\bin\Debug\ClipboardViewer.exe.config
+C:\Noah\Projects\Mini\ClipboardViewer\clipboardviewer\trunk\ClipboardViewer\obj\x86\Debug\ClipboardViewer.exe
+C:\Noah\Projects\Mini\ClipboardViewer\clipboardviewer\trunk\ClipboardViewer\obj\x86\Debug\ClipboardViewer.pdb

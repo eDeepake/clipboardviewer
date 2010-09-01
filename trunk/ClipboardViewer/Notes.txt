@@ -1,0 +1,17 @@
+﻿
+http://clipboardviewer.codeplex.com/
+
+Improvement Ideas
+- Keep a stack of selected data formats and views and default the selection to the top data format in the stack
+- Remember the last position and size of the main form across sessions (via settings)
+- Update the UI to use WPF (for a nice pretty look)
+- Add error handling for loading plugin .DLL files that may not be .NET assemblies (such as in the scenario where you drop ClipboardViewer.exe in a directory with many other tools and .DLLs)
+- Add support for downloading plugins from online
+
+- Add viewers for:
+  - Windows Explorer file items (copy files from Windows Explorer)
+
+- Improvements to Viewers
+  - Bitmap: allow saving of an image (right-click or a link to save), support other image formats like WMF, PNG, etc (copy something 
+	- HTML Viewer: support unicode characters
+	- Text View: expose option for wordwrap
