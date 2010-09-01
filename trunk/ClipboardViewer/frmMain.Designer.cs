@@ -144,6 +144,7 @@
 			this.lnkAbout.TabIndex = 0;
 			this.lnkAbout.TabStop = true;
 			this.lnkAbout.Text = "About";
+			this.lnkAbout.LinkClicked += new System.Windows.Forms.LinkLabelLinkClickedEventHandler(this.lnkAbout_LinkClicked);
 			// 
 			// frmMain
 			// 

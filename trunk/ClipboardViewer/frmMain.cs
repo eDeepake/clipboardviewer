@@ -67,13 +67,11 @@ namespace ClipboardViewer
 			clipChange.AssignHandle(this.Handle);
 			clipChange.Install();
 		}
-
 		private void clipChange_ClipboardChanged(object sender, EventArgs e)
 		{
 			// Clipboard contents changed, show the new list of data formats
 			RefreshClipboardFormats();
 		}
-
 		private void chkAlwaysOnTop_CheckedChanged(object sender, EventArgs e)
 		{
 			// Make the main form always stay on top of other windows if checked
@@ -82,7 +80,6 @@ namespace ClipboardViewer
 		private void lnkAbout_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
 		{
 			Process.Start(Resources.AboutUrl);
-
 		}
 		private void lstFormats_SelectedIndexChanged(object sender, EventArgs e)
 		{
